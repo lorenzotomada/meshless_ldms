@@ -1,2 +1,3 @@
-# meshless_ldms
-Implementation of meshless latent dynamics models
+# Meshless Latent Dynamics Models for MOR of time-dependent PDEs
+
+## 🚧 Coming Soon 🚧
